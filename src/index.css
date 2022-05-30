@@ -1,0 +1,33 @@
+/* .contanier{
+    display: flex;
+    justify-content: center;
+    padding: 12px 13px;
+} */
+.head{
+   display: flex;
+   justify-content: center;
+   margin-top: 90px;
+}
+.card{
+    width: 18rem;
+    /* margin-left: 12px;
+    margin-right: 12px; */
+}
+.infinite-scroll-component {
+    overflow: hidden !important;
+}
+.contanier{
+    margin-left: 14%;
+    margin-top: 20px;
+}
+.direct{
+    margin-right: 20px;
+}
+.card{
+    background-color: black;
+    color: white;
+    border-radius: 6px;
+}
+.card:hover{
+    border: 10px solid red;
+}
